@@ -91,6 +91,7 @@ sudo dpkg -i google*.deb
 rm google*.deb
 notify-colored 'Done.'
 
+sudo ln -s /usr/bin/nodejs /usr/bin/node
 sudo npm install -g bower
 sudo gem install compass
 sudo gem install sass
