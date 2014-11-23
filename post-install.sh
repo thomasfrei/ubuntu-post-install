@@ -124,7 +124,7 @@ notify-colored 'Done.'
 
 # Move Wallpaper to User Home
 sudo mkdir $USER_HOME/Pictures/Wallpapers
-sudo mv $DIR/data/images/Wallpaper.jpg $USER_HOME/Pictures/Wallpapers
+sudo mv $DIR/data/images/wallpaper.jpg $USER_HOME/Pictures/Wallpapers
 
 # Settings
 gsettings set org.gnome.desktop.interface gtk-theme "Numix Daily"
