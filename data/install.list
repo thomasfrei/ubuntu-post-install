@@ -1,9 +1,6 @@
 unity-tweak-tool
 build-essential
 git
-apache2
-mysql-server
-php5-mysql
 filezilla
 p7zip-full
 vlc
@@ -14,3 +11,4 @@ ruby-full
 nodejs
 npm
 ubuntu-restricted-extras
+tasksel
